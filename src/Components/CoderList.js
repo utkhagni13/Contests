@@ -176,7 +176,7 @@ function CoderList() {
       <ReactPaginate
         className="pagination"
         previousLabel={"Previous"}
-        nextLabel={"NextLabel"}
+        nextLabel={"Next"}
         pageCount={pageCount}
         onPageChange={changePage}
         containerClassName={"paginationBttns"}
